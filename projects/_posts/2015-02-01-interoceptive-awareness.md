@@ -2,8 +2,9 @@
 layout: project
 title:  "Relationship between interoceptive awareness and metacognitive abilities in nearthreshold visual perception"
 pi: Marta Łukowska
+supervisor: Michał Wierzchoń
 number: 2014/13/N/HS6/02963
-date:   2015-02-01 9:00:00
+date: 2015-02-01 9:00:00
 color: rgba(253,236,6,1)
 ---
 

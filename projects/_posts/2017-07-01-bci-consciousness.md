@@ -4,7 +4,7 @@ title:  "Neuronal substrates of consciousness - automatic classification of leve
 pi: Marcin Koculak
 supervisor: Tomasz Rutkowski
 number: 2016/23/N/HS6/00844
-years: 2017 - 2020
+years: 2017-2020
 date:   2017-07-01 9:00:00
 color: rgba(253,236,6,1)
 ---

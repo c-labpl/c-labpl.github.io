@@ -2,6 +2,7 @@
 layout: project
 title:  "Cognitive mechanisms of volition –  the role of cue weighting and sensory integration in health and disease"
 pi: Bartosz Majchrowicz
+supervisor: Michał Wierzchoń
 number:
 date:   2015-10-01 9:00:00
 color: rgba(129,204,236,1)

@@ -3,8 +3,8 @@ layout: project
 title:  "Cognitive and neural plasticity and the subjective experience. Interdisciplinary analysis of sensory substitution."
 pi: Michał Wierzchoń
 number: 2016/23/B/HS6/00275
-years: 2017 - 2020
-date:   2017-04-01 9:00:00
+years: 2017-2020
+date: 2017-04-01 9:00:00
 color: rgba(212,32,130,1)
 ---
 
