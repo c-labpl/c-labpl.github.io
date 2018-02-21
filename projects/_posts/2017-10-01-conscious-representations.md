@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Formal features of conscious representations"
+title:  "Formal features of conscious representations."
 pi: Simon del Pin
 supervisor: Michał Wierzchoń
 number: 2017/25/N/HS6/01094

@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Cognitive mechanisms of volition –  the role of cue weighting and sensory integration in health and disease"
+title:  "Cognitive and neuronal mechanism of metacognitive awareness."
 pi: Michał Wierzchoń
 number: 2014/14/M/HS6/00911
 date:   2015-04-01 9:00:00
