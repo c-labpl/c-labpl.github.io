@@ -1,16 +1,16 @@
-﻿---
+---
 layout: post
 title:  "Marta Łukowska"
-name: Marta
+name: "Marta "
 surname: Łukowska
 date:   2017-12-10 09:00:00
 categories: people
 image-file: /images/people/mlukowska.jpg
 category: colab
 mail: mar.lukowska@gmail.com
-website: 
+website:
 twitter:
-researchgate: 
+researchgate:
 ---
 
 Doctor of Social Sciences, graduated from the Institute of Psychology, Jagiellonian University.

@@ -382,6 +382,15 @@
 					background: rgba(112, 174, 205, 0.7);
 				}
 
+        .icon.circle.fa-at {
+  				background: rgba(129, 61, 138, 1);
+  				color: white;
+  			}
+
+  				.icon.circle.fa-at:hover {
+  					background: rgba(129, 61, 138, 0.7);
+  				}
+
 			.icon.circle.fa-graduation-cap {
 				background: rgba(181, 204, 52, 1);
 				color: white;

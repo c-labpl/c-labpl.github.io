@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Marta Siedlecka"
-name: Marta
+name: "Marta "
 surname: Siedlecka
 date:   2017-12-30 09:00:00
 categories: people

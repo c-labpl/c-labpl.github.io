@@ -1,7 +1,7 @@
-﻿---
+---
 layout: post
 title:  "Joanna Szczotka"
-name: Joanna
+name: "Joanna "
 surname: Szczotka
 date:   2017-12-18 09:00:00
 categories: people

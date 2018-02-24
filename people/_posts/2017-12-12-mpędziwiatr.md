@@ -1,7 +1,7 @@
-﻿---
+---
 layout: post
 title:  "Marek Pędziwiatr"
-name: Marek
+name: "Marek "
 surname: Pędziwiatr
 date:   2017-12-12 09:00:00
 categories: people

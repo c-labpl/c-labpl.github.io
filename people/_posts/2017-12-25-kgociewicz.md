@@ -1,7 +1,7 @@
-﻿---
+---
 layout: post
 title:  "Krzysztof Gociewicz"
-name: Krzysztof
+name: "Krzysztof "
 surname: Gociewicz
 date:   2017-12-25 09:00:00
 categories: people

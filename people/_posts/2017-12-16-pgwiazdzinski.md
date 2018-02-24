@@ -1,7 +1,7 @@
-﻿---
+---
 layout: post
 title:  "Paweł Gwiaździński"
-name: Paweł
+name: "Paweł "
 surname: Gwiaździński
 date:   2017-12-16 09:00:00
 categories: people

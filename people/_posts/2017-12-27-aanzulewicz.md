@@ -1,7 +1,7 @@
-﻿---
+---
 layout: post
 title:  "Anna Anzulewicz"
-name: Anna
+name: "Anna "
 surname: Anzulewicz
 date:   2017-12-27 09:00:00
 categories: people
