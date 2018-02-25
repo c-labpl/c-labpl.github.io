@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Methodological issues with sensory substitution studies"
 date:   2014-10-22 9:00:00

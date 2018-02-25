@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Mutual influences between bodily self-consciousness and conscious awareness"
 date:   2014-03-26 9:00:00

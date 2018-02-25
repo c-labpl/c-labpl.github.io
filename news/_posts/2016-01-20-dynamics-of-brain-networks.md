@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Spatio-temporal dynamics of spontaneous brain networks in different states of consciousness"
 date:   2016-01-20 9:00:00

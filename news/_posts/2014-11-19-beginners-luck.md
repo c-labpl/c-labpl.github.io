@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Beginner’s luck. In search of neural correlates of visual awareness dynamic with fMRI. Summing up the pilot studies."
 date:   2014-11-19 9:00:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "The level of information processing and consciousness – preliminary results from an EEG study"
 date:   2015-03-26 9:00:00

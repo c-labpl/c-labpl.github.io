@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Cognitive and neuronal mechanisms of metacognitive awareness – new research funding"
 date:   2015-04-24 9:00:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Using active and passive paradigms to detect consciousness in non-communicative patients"
 date:   2013-10-15 9:00:00

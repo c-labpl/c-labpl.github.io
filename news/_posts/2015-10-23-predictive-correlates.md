@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "A case for graded, early neural components as the most predictive correlates of consciousness"
 date:   2015-10-23 9:00:00

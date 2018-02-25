@@ -6,7 +6,7 @@ layout: default
 <article id="main">
     <header class="special container">
         <span class="icon fa-newspaper-o"></span>
-        <h2>C-LAB <strong>NEWS</strong></h2>
+        <h2>NEWS</h2>
     </header>
     <section class="wrapper style4 container">
       {% assign postsByYearMonth = site.categories.news | group_by_exp:"news", "news.date | date: '%Y'"  %}

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "The influence of a Rubber Hand Illusion on experiencing pain and temperature in a real hand"
 date:   2014-11-26 9:00:00

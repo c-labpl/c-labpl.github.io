@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "The influence of dyadic gaze dynamics on joint and individual decisions"
 date:   2016-09-07 9:00:00
