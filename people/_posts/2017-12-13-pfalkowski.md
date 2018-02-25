@@ -1,16 +1,16 @@
-﻿---
+---
 layout: post
 title:  "Piotr Falkowski"
-name: Piotr
+name: "Piotr "
 surname: Falkowski
 date:   2017-12-13 09:00:00
 categories: people
 image-file: /images/people/default.jpeg
 category: colab
 mail: piotr.falkowski.fm@gmail.com
-website: 
+website:
 twitter:
-researchgate: 
+researchgate:
 ---
 
 MA psychology graduate from Jagiellonian University.

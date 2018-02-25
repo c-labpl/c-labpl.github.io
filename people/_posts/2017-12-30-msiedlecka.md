@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Marta Siedlecka"
-name: Marta
+name: "Marta "
 surname: Siedlecka
 date:   2017-12-30 09:00:00
 categories: people
@@ -10,7 +10,7 @@ mail: marta.siedlecka@uj.edu.pl
 category: clab
 ---
 
-Post-doc in the Institute of Psychology, Jagiellonian University.
+Post-doc at the Institute of Psychology, Jagiellonian University.
 
 I am mainly interested in metacognition and how metacognitive feelings arise.
 
