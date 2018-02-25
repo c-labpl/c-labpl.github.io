@@ -2,7 +2,7 @@
 layout: post
 title:  "The level of information processing and consciousness – preliminary results from an EEG study"
 date:   2015-03-26 9:00:00
-image: /images/16.jpg
+image: /images/4.jpg
 ---
 
 C-lab meeting with a presentation by Monika Derda & Marcin Koculak
