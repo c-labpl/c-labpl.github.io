@@ -2,7 +2,7 @@
 layout: post
 title:  "CogSpaceCracow – interdisciplinary space for cognitive scientists in Krakow"
 date:   2014-12-17 9:00:00
-image: /images/19.jpg
+image: /images/7.jpg
 ---
 
 C-lab meeting with a presentation by Marta Łukowska & Marcin Koculak

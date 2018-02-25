@@ -2,7 +2,7 @@
 layout: post
 title:  "Cognitive and neuronal mechanisms of metacognitive awareness – new research funding"
 date:   2015-04-24 9:00:00
-image: /images/15.jpg
+image: /images/3.jpg
 ---
 
 C-lab meeting with a presentation by Michał Wierzchoń & Marta Siedlecka

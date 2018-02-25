@@ -2,7 +2,7 @@
 layout: post
 title:  "Visual experience depends on level of processing"
 date:   2013-11-13 9:00:00
-image: /images/7.jpg
+image: /images/3.jpg
 ---
 
 Invited talk by Bert Windey, Universite Libre de Bruxelles.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Methodological issues with sensory substitution studies"
 date:   2014-10-22 9:00:00
-image: /images/2.jpg
+image: /images/10.jpg
 ---
 
 C-lab meeting with a presentation by Weronika Kałtwak, Marta Łukowska, & Bartosz Majchrowicz
