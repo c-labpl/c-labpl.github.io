@@ -1,8 +1,8 @@
----
+﻿---
 layout: post
 title:  "Conscious emotion perception from threshold-like standpoint: Empirical support from masking"
 date:   2013-01-17 9:00:00
-image: /images/pic01.jpg
+image: /images/10.jpg
 ---
 
 Invited talk by Remigiusz Szczepanowski, University of Social Sciences and Humanities, Faculty in Wrocław.

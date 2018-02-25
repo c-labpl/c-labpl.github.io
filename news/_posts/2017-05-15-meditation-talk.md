@@ -1,8 +1,8 @@
----
+﻿---
 layout: post
 title:  "Medytacja w kulturach wschodu, psychologii i psychoterapii"
 date:   2017-05-13 9:00:00
-image: /images/pic01.jpg
+image: /images/4.jpg
 ---
 
 Wykład Michała Wierzchonia w ramach Kawiarnii Naukowej organizowanej przez Instytut Psychologii, UJ.

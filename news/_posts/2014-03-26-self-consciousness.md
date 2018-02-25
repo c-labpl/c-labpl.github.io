@@ -1,8 +1,8 @@
----
+﻿---
 layout: post
 title:  "Mutual influences between bodily self-consciousness and conscious awareness"
 date:   2014-03-26 9:00:00
-image: /images/pic01.jpg
+image: /images/5.jpg
 ---
 
 C-lab meeting with a presentation by Marta Łukowska (in cooperation with Roy Salomon, Giulia Galli, Javier Bello Ruiz & Olaf Blanke).

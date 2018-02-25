@@ -1,8 +1,8 @@
----
+﻿---
 layout: post
 title:  "Measuring consciousness"
 date:   2017-05-09 9:00:00
-image: /images/pic01.jpg
+image: /images/5.jpg
 ---
 
 Invited talk by Dr Kristian Sandberg, Aarhus University Hospital & Department of Clinical Medicine, Aarhus University, Denmark

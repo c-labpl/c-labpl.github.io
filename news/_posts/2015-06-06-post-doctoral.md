@@ -1,8 +1,8 @@
----
+﻿---
 layout: post
 title:  "Post-doctoral position in Somatosensory Awareness"
 date:   2015-10-23 9:00:00
-image: /images/pic01.jpg
+image: /images/14.jpg
 ---
 
 Applications are invited for a full-time post-doctoral position as a research assistant.
