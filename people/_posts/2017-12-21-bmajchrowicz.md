@@ -1,11 +1,11 @@
----
+﻿---
 layout: post
 title:  "Bartosz Majchrowicz"
 name: "Bartosz "
 surname: Majchrowicz
 date:   2017-12-21 09:00:00
 categories: people
-image-file: /images/people/bmajchrowicz.jpg
+image-file: /images/people/bmajchrowicz.png
 category: clab
 mail: majchrowicz.b@gmail.com
 website:
