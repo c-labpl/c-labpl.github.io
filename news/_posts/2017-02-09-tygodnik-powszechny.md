@@ -1,8 +1,8 @@
----
+﻿---
 layout: post
 title:  "Dodatek naukowy do Tygodnika Powszechnego"
 date:   2017-02-09 9:00:00
-image: /images/9.jpg
+image: /images/paper.png
 ---
 
 Justyna Hobot i Michał Wierzchoń, opowiadają o rebelii zmysłów

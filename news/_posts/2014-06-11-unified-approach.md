@@ -1,8 +1,8 @@
----
+﻿---
 layout: post
 title:  "Consciousness in cognitive neuroscience, philosophy of mind and related fields. An attempt at a unified approach"
 date:   2014-06-11 9:00:00
-image: /images/11.jpg
+image: /images/talk.png
 ---
 
 Invited talk by Jakub Jonkisz, The University of Bielsko-Biała.

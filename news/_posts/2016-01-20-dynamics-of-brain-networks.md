@@ -1,8 +1,8 @@
----
+﻿---
 layout: post
 title:  "Spatio-temporal dynamics of spontaneous brain networks in different states of consciousness"
 date:   2016-01-20 9:00:00
-image: /images/12.jpg
+image: /images/talk.png
 ---
 
 Invited talk by dr Michał Bola, Nencki Institute of Experimental Biology of Polish Academy of Sciences

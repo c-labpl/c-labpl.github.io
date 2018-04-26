@@ -1,8 +1,8 @@
----
+﻿---
 layout: post
 title:  "The influence of dyadic gaze dynamics on joint and individual decisions"
 date:   2016-09-07 9:00:00
-image: /images/10.jpg
+image: /images/talk.png
 ---
 
 Invited talk by dr Bert Timmermans, The School of Psychology, University of Aberdeen

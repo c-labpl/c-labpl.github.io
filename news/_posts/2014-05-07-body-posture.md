@@ -1,8 +1,8 @@
----
+﻿---
 layout: post
 title:  "Influence of body posture on visual perception – Experiment in binocular rivalry paradigm"
 date:   2014-05-07 9:00:00
-image: /images/12.jpg
+image: /images/talk.png
 ---
 
 Invited talk by Paweł Motyka, University of Warsaw, Faculty of Psychology.

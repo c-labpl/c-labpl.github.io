@@ -1,8 +1,8 @@
----
+﻿---
 layout: post
 title:  "Priming the sense of agency. How does knowledge about a prime influence the sense of action control?"
 date:   2013-12-04 9:00:00
-image: /images/2.jpg
+image: /images/talk.png
 ---
 
 Invited talk by Leon Ciechanowski, University of Social Sciences and Humanities, Warsaw.

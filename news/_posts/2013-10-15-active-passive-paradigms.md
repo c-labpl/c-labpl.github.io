@@ -1,8 +1,8 @@
----
+﻿---
 layout: post
 title:  "Using active and passive paradigms to detect consciousness in non-communicative patients"
 date:   2013-10-15 9:00:00
-image: /images/4.jpg
+image: /images/talk.png
 ---
 
 C-lab meeting with a presentation by Marek Binder (in cooperation with Urszula Górska & Marta Brocka).

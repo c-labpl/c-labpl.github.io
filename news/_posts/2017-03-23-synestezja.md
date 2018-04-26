@@ -1,8 +1,8 @@
----
+﻿---
 layout: post
 title:  "Rebelia zmysłów. Jak to jest być synestetą?"
 date:   2017-03-23 9:00:00
-image: /images/7.jpg
+image: /images/talk.png
 ---
 
 Wykład Justyny Hobot dla Centrum Kopernika.
