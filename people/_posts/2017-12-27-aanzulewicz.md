@@ -13,7 +13,7 @@ twitter:
 researchgate:
 ---
 
-PhD student at the Institute of Psychology, Jagiellonian University.
+PhD at the Institute of Psychology, Jagiellonian University.
 
 My research focuses on investigating subjective measures of awareness and the nature of transition from unconscious to conscious processing of stimuli.
 
