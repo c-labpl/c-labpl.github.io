@@ -5,7 +5,7 @@ layout: default
 <article id="main">
     <header class="special container">
         <span class="icon fa-users"></span>
-        <h2>Members</h2>
+        <h2 style="font-weight: 800">Members</h2>
     </header>
 
     <section class="wrapper style3 container special">
@@ -23,11 +23,11 @@ layout: default
         {% endfor %}
       </div>
 
-      </section>
+    </section>
 
-      <section class="wrapper style3 container special">
+    <section class="wrapper style3 container special">
 
-      <h2>Collaborators</h2>
+      <h2 style="font-weight: 800">Collaborators</h2>
       <div class="row posts people">
         {% assign colab = site.categories.people | where:"category", "colab" %}
         {% for post in colab %}
@@ -42,6 +42,25 @@ layout: default
       </div>
 
     </section>
+
+    <section class="wrapper style3 container special">
+
+      <h2 style="font-weight: 800">Interns</h2>
+      <div class="row posts people">
+        {% assign colab = site.categories.people | where:"category", "intern" %}
+        {% for post in colab %}
+        <div class="4u">
+          <a href="#{{post.title}}">
+            <span class="image people"><img src="{{post.image-file}}" alt=""></span>
+            <h2 class="people">{{post.name}} <br /> {{post.surname}}</h2>
+            <span class="people">{{post.excerpt}}</span>
+          </a>
+        </div>
+        {% endfor %}
+      </div>
+
+    </section>
+
     {% for post in site.categories.people %}
     <div id="{{post.title}}" class="modalDialog">
       <div class="container">	<a href="#close" title="Close" class="close">X</a>
