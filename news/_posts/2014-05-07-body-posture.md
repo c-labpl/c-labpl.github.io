@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Influence of body posture on visual perception – Experiment in binocular rivalry paradigm"
 date:   2014-05-07 9:00:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Measuring consciousness"
 date:   2017-05-09 9:00:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Want to join our lab? <br /> Positions available"
 date:   2017-08-09 9:00:00
