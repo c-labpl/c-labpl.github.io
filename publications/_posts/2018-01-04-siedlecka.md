@@ -1,8 +1,8 @@
----
+﻿---
 layout: post
 title:  "Siedlecka et al. (2018)"
 date:   2018-01-04 09:00:00
-link:
+link: http://psycnet.apa.org/record/2018-32825-001
 categories: article
 year: 2018
 ---
