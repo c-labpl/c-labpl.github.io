@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Conscious emotion perception from threshold-like standpoint: Empirical support from masking"
 date:   2013-01-17 9:00:00

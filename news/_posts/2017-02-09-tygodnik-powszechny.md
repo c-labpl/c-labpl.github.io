@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Dodatek naukowy do Tygodnika Powszechnego"
 date:   2017-02-09 9:00:00

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Post-doctoral position in Somatosensory Awareness"
 date:   2015-10-23 9:00:00
