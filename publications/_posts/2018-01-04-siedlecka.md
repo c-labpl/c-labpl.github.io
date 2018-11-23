@@ -7,4 +7,4 @@ categories: article
 year: 2018
 ---
 
-Siedlecka, M., Skóra, Z., Paulewicz, B., Fijałkowska, S., Timmermans, B., & Wierzchoń, M. (in press). Responses improve the accuracy of confidence judgements in memory tasks. Journal of Experimental Psychology: Learning, Memory, and Cognition.
+Siedlecka, M., Skóra, Z., Paulewicz, B., Fijałkowska, S., Timmermans, B., & Wierzchoń, M. (2018). Responses improve the accuracy of confidence judgements in memory tasks. Journal of Experimental Psychology: Learning, Memory, and Cognition.

@@ -7,4 +7,4 @@ categories: article
 year: 2018
 ---
 
-Majchrowicz, B. i Wierzchoń, M. (2018). Unexpected action outcomes produce enhanced temporal binding but diminished judgement of agency. Consciousness and Cognition, 65, 310-324.
+Majchrowicz, B. & Wierzchoń, M. (2018). Unexpected action outcomes produce enhanced temporal binding but diminished judgement of agency. Consciousness and Cognition, 65, 310-324.

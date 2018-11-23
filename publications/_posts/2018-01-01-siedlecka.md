@@ -7,4 +7,4 @@ categories: article
 year: 2018
 ---
 
-Siedlecka, M., Spychała, N., Łukowska, M., Wiercioch, K. & Wierzchoń M. (2018). Rubber hand illusion increases pain caused by electric stimuli. Journal of Pain (19) 1, 35-45.
+Siedlecka, M., Spychała, N., Łukowska, M., Wiercioch, K. & Wierzchoń, M. (2018). Rubber hand illusion increases pain caused by electric stimuli. Journal of Pain (19) 1, 35-45.
