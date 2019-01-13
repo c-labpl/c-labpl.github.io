@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Siedlecka et al. (2018)"
 date:   2018-01-04 09:00:00

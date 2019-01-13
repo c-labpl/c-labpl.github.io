@@ -1,7 +1,7 @@
-﻿---
+---
 layout: post
 date:   2018-01-03 09:00:00
-link: onlinelibrary.wiley.com/doi/10.1111/cogs.12578/full#cogs12578
+link: http://onlinelibrary.wiley.com/doi/10.1111/cogs.12578/full#cogs12578
 categories: article
 year: 2018
 ---
