@@ -1,7 +1,7 @@
-﻿---
+---
 layout: post
 date:   2018-01-07 09:00:00
-link: 
+link:
 categories: book-chapter
 year: 2018
 ---

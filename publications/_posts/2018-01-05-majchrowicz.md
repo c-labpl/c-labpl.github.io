@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Majchrowicz et al. (2018)"
 date:   2018-01-05 09:00:00
