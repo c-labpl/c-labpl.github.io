@@ -6,4 +6,4 @@ categories: article
 year: 2019
 ---
 
-Wierzchoń, M., Anzulewicz, A., Hobot, J., Paulewicz, B., Sackur, J. (2019). In search of the optimal measure of awareness: Discrete or continuous? Consciousness and Cognition,75, 102798.
+Wierzchoń, M., Anzulewicz, A., Hobot, J., Paulewicz, B. & Sackur, J. (2019). In search of the optimal measure of awareness: Discrete or continuous? Consciousness and Cognition, 75, 102798.
