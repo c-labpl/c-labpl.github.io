@@ -5,7 +5,7 @@ date:   2019-04-26 9:00:00
 image: /images/talk.png
 ---
 
-We would like to invite you on the next C-lab meeting on Monday, 29th of April at 13:15 in the room 4.01. The invited speaker is Piotr Grzegorz Nowak with the presentation titled "The Death of an Organism vs.Death as an Irreversible Loss of a Human’s Moral Status". The abstract of the presentation is below.
+We would like to invite you on the next C-lab meeting on Monday, 29th of April at 13:15 in the room 4.01. The invited speaker is Piotr Grzegorz Nowak with the presentation titled "The Death of an Organism vs. Death as an Irreversible Loss of a Human’s Moral Status". The abstract of the presentation is below.
 
 
 **The Death of an Organism vs. Death as an Irreversible Loss of a Human’s Moral Status**
