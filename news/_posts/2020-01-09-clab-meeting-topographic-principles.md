@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "C-lab meeting - Diffusion MRI: Measuring water to visualise connectivity"
+title:  Topographic principles of human cortical connectivity"
 date:   2020-01-02 9:00:00
 image: /images/talk.png
 ---
