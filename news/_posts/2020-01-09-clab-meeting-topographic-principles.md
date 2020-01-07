@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Topographic principles of human cortical connectivity"
+title:  "C-lab meeting - Topographic principles of human cortical connectivity"
 date:   2020-01-02 9:00:00
 image: /images/talk.png
 ---
