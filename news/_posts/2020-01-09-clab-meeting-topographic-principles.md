@@ -5,7 +5,7 @@ date:   2020-01-02 9:00:00
 image: /images/talk.png
 ---
 
-We would like to invite you on the next C-lab meeting on Wednesday, 9th of January at 13:15 (the room will be announced later). The invited speaker is prof. Daniel Margulies with the presentation titled "Topographic principles of human cortical connectivity". The abstract of the presentation is below.
+We would like to invite you on the next C-lab meeting on Wednesday, 9th of January at 13:15 in the room 0.04. The invited speaker is prof. Daniel Margulies with the presentation titled "Topographic principles of human cortical connectivity". The abstract of the presentation is below.
 
 
 **Topographic principles of human cortical connectivity**
