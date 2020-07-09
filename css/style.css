@@ -1457,3 +1457,24 @@ h2.people {
   text-align: center;
   float: none;
 }
+
+/* NEWS POST */
+
+.news p {
+  margin: 2em 0 0 0;
+}
+
+.news ol {
+  list-style: decimal;
+  padding-left: 1em;
+}
+
+.news ul {
+  list-style: initial;
+  padding-left: 1em;
+}
+
+.news ol ul {
+  list-style: initial;
+  padding-left: 1em;
+}
