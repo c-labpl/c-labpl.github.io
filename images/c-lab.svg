@@ -5,12 +5,12 @@
 	 viewBox="0 0 693 693" style="enable-background:new 0 0 693 693;" xml:space="preserve">
 <style type="text/css">
 	.logo-circle{fill:#1C1C17;}
-	.logo-orange{fill:#F0801A;}
-	.logo-green{fill:#B5CC26;}
-	.logo-purple{fill:#803D8A;}
-	.logo-blue{fill:#80CCED;}
-	.logo-pink{fill:#D42182;}
-	.logo-yellow{fill:#FFED00;}
+	.logo-orange{fill:#F0801A; visibility:hidden}
+	.logo-green{fill:#B5CC26; visibility:hidden}
+	.logo-purple{fill:#803D8A; visibility:hidden}
+	.logo-blue{fill:#80CCED; visibility:hidden}
+	.logo-pink{fill:#D42182; visibility:hidden}
+	.logo-yellow{fill:#FFED00; visibility:hidden}
 </style>
 <path class="logo-circle" d="M346.5,0C537.9,0,693,155.1,693,346.5C693,537.9,537.9,693,346.5,693C155.1,693,0,537.9,0,346.5
 	C0,155.1,155.1,0,346.5,0"/>

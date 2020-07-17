@@ -13,60 +13,49 @@
 
 /* Basic */
 
-  @keyframes FadeIn { to {opacity: 1} }
+  @keyframes FadeIn {0% {visibility:visible; opacity: 0;} 100% {visibility:visible; opacity: 1;}}
+  @-webkit-keyframes FadeIn {0% {opacity: 0;} 100% {opacity: 1;}}
+  @-moz-keyframes FadeIn {0% {opacity: 0;} 100% {opacity: 1;}}
 
   .logo-orange {
-    opacity: 0;
-    animation-name: FadeIn;
-    animation-duration: 3s;
-    animation-delay: 1s;
-    animation-timing-function: ease-out;
-    animation-fill-mode: forwards;
+    -webkit-animation: FadeIn 3s 0.5s forwards;
+    -moz-animation: FadeIn 3s 0.5s forwards;
+    animation: FadeIn 3s 0.5s forwards;
   }
 
   .logo-green {
     opacity: 0;
-    animation-name: FadeIn;
-    animation-duration: 3s;
-    animation-delay: 1.2s;
-    animation-timing-function: ease-out;
-    animation-fill-mode: forwards;
+    -webkit-animation: FadeIn 3s ease-out 1s forwards;
+    -moz-animation: FadeIn 3s ease-out 1s forwards;
+    animation: FadeIn 3s ease-out 1s forwards;
   }
 
   .logo-purple {
     opacity: 0;
-    animation-name: FadeIn;
-    animation-duration: 3s;
-    animation-delay: 1.4s;
-    animation-timing-function: ease-out;
-    animation-fill-mode: forwards;
+    -webkit-animation: FadeIn 3s ease-out 1.5s forwards;
+    -moz-animation: FadeIn 3s ease-out 1.5s forwards;
+    animation: FadeIn 3s ease-out 1.5s forwards;
   }
 
   .logo-blue {
     opacity: 0;
-    animation-name: FadeIn;
-    animation-duration: 3s;
-    animation-delay: 1.6s;
-    animation-timing-function: ease-out;
-    animation-fill-mode: forwards;
+    -webkit-animation: FadeIn 3s ease-out 2s forwards;
+    -moz-animation: FadeIn 3s ease-out 2s forwards;
+    animation: FadeIn 3s ease-out 2s forwards;
   }
 
   .logo-pink {
     opacity: 0;
-    animation-name: FadeIn;
-    animation-duration: 3s;
-    animation-delay: 1.8s;
-    animation-timing-function: ease-out;
-    animation-fill-mode: forwards;
+    -webkit-animation: FadeIn 3s ease-out 2.5s forwards;
+    -moz-animation: FadeIn 3s ease-out 2.5s forwards;
+    animation: FadeIn 3s ease-out 2.5s forwards;
   }
 
   .logo-yellow {
     opacity: 0;
-    animation-name: FadeIn;
-    animation-duration: 3s;
-    animation-delay: 2s;
-    animation-timing-function: ease-out;
-    animation-fill-mode: forwards;
+    -webkit-animation: FadeIn 3s ease-out 3s forwards;
+    -moz-animation: FadeIn 3s ease-out 3s forwards;
+    animation: FadeIn 3s ease-out 3s forwards;
   }
 
 	body, #skel-layers-wrapper {
