@@ -5,7 +5,7 @@ date:   2021-01-16 9:00:00
 image: /images/talk.png
 ---
 
-On Monday 18th of January we will have a C-Lab seminar with mgr Marek Pędziwiatr.
+On Monday 25th of January we will have a C-Lab seminar with mgr Marek Pędziwiatr.
 
 **Title**
 Investigating the role of image meaning and prior knowledge in human eye-movements control
