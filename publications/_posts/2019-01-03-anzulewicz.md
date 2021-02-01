@@ -6,4 +6,4 @@ categories: article
 year: 2019
 ---
 
-Anzulewicz, A., Hobot, J., Siedlecka, M., & Wierzchoń, M. (2019). Bringing action into the picture. How action influences visual awareness. Attention, Perception & Psychophysics. 
+Anzulewicz, A., Hobot, J., Siedlecka, M., & Wierzchoń, M. (2019). Bringing action into the picture. How action influences visual awareness. Attention, Perception & Psychophysics, 81 (7), 2171-2176.
