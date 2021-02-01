@@ -6,4 +6,4 @@ categories: article
 year: 2020
 ---
 
- Paulewicz, B., Siedlecka, M., & Koculak, M. (2020). Confounding in studies on metacognition: a preliminary causal analysis framework. Frontiers in Psychology, doi: 10.3389/fpsyg.2020.01933
+Paulewicz, B., Siedlecka, M., & Koculak, M. (2020). Confounding in studies on metacognition: a preliminary causal analysis framework. Frontiers in Psychology, 11, 1933.
