@@ -18,7 +18,7 @@ Doctor of Social Sciences, graduated from the Institute of Psychology, Jagiellon
 My research concerns perception of own body location in space. In order to investigate the problem of embodiment I use distal-to-tactile sensory substitution device (Enactive Torch), rubber-hand illusion paradigm and virtual roller coaster simulations.
 
 Research interests:
-– embodiment
-– spatial navigation
-– sensory substitution
-– virtual reality
+* embodiment
+* spatial navigation
+* sensory substitution
+* virtual reality

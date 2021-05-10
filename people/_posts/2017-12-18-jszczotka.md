@@ -21,10 +21,10 @@ My master thesis research focuses on how multisensory integration in peripersona
 I am mostly interested in extrapolations of Integrated Information Theory. In my future research I would like to verify some of its predictions and use it as a framework to investigate various qualitatively altered states of consciousness, such as psychosis, meditative states, synaesthetic experiences.
 
 Research interests:
-– integrated information theory
-– circuit dynamics and cognition
-– bodily self
-– spatial awareness
-– altered states of consciousness
-– invariance in object recognition
-– philosophy of information and causality  
+* integrated information theory
+* circuit dynamics and cognition
+* bodily self
+* spatial awareness
+* altered states of consciousness
+* invariance in object recognition
+* philosophy of information and causality

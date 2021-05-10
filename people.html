@@ -9,15 +9,43 @@ layout: default
     </header>
 
     <section class="wrapper style3 container special">
-
+      <h2 style="font-weight: 800">Principal Investigators</h2>
       <div class="row posts people">
-        {% assign clab = site.categories.people | where:"category", "clab" %}
+        {% assign clab = site.categories.people | where:"category", "PI" %}
         {% for post in clab %}
-        <div class="4u">
+        <div class="4u person-card">
           <a href="#{{post.title}}">
             <span class="image people"><img src="{{post.image-file}}" alt=""></span>
-            <h2 class="people">{{post.name}}<br />{{post.surname}}</h2>
+            <h2 class="people name">{{post.name}}<br />{{post.surname}}</h2>
             <span class="people">{{post.excerpt}}</span>
+          </a>
+        </div>
+        {% endfor %}
+      </div>
+
+      <h2 style="font-weight: 800; margin-top: 3em">Post-docs</h2>
+
+      <div class="row posts people">
+        {% assign clab = site.categories.people | where:"category", "postdoc" %}
+        {% for post in clab %}
+        <div class="4u person-card">
+          <a href="#{{post.title}}">
+            <span class="image people"><img src="{{post.image-file}}" alt=""></span>
+            <h2 class="people name">{{post.name}}<br />{{post.surname}}</h2>
+          </a>
+        </div>
+        {% endfor %}
+      </div>
+
+      <h2 style="font-weight: 800; margin-top: 3em">PhD Students</h2>
+
+      <div class="row posts people">
+        {% assign clab = site.categories.people | where:"category", "phd" %}
+        {% for post in clab %}
+        <div class="4u person-card">
+          <a href="#{{post.title}}">
+            <span class="image people"><img src="{{post.image-file}}" alt=""></span>
+            <h2 class="people name">{{post.name}}<br />{{post.surname}}</h2>
           </a>
         </div>
         {% endfor %}
@@ -27,39 +55,79 @@ layout: default
 
     <section class="wrapper style3 container special">
 
-      <h2 style="font-weight: 800">Collaborators</h2>
-      <div class="row posts people">
-        {% assign colab = site.categories.people | where:"category", "colab" %}
-        {% for post in colab %}
-        <div class="4u">
-          <a href="#{{post.title}}">
-            <span class="image people"><img src="{{post.image-file}}" alt=""></span>
-            <h2 class="people">{{post.name}} <br /> {{post.surname}}</h2>
-            <span class="people">{{post.excerpt}}</span>
-          </a>
-        </div>
-        {% endfor %}
+      <h2 style="font-weight: 800; text-align: left">INTERNS</h2>
+      <div class="row posts others">
+        <div class="4u" style="font-family: Oswald; font-weight: 700;">TOMASZ DĄBROWA-KOSTKA</div>
+        <div class="8u"style="text-align:left;">Student of Cognitive Science at Jagiellonian University</div>
       </div>
+      <div class="row posts others">
+        <div class="4u" style="font-family: Oswald; font-weight: 700; padding: 10px 0 0 50px;">WIKTORIA JAKUBOWSKA</div>
+        <div class="8u"style="text-align:left; padding: 10px 0 0 50px;">Student of Psychology at Jagiellonian University</div>
+      </div>
+
+
+      <h2 style="font-weight: 800; text-align: left; margin-top: 3em;">ALUMNI</h2>
+      <div class="row posts others">
+        <div class="4u" style="font-family: Oswald; font-weight: 700;">ANNA ANZULEWICZ, PhD</div>
+        <div class="8u"style="text-align:left;">Assistant Professor at the Warsaw University, Faculty of Psychology</div>
+      </div>
+      <div class="row posts others">
+        <div class="4u" style="font-family: Oswald; font-weight: 700; padding: 10px 0 0 50px;">URSZULA GÓRSKA, PhD</div>
+        <div class="8u"style="text-align:left; padding: 10px 0 0 50px;">Post-doc at University of Wisconsin-Madison</div>
+      </div>
+      <div class="row posts others">
+        <div class="4u" style="font-family: Oswald; font-weight: 700; padding: 10px 0 0 50px;">MARTA ŁUKOWSKA, PhD</div>
+        <div class="8u"style="text-align:left; padding: 10px 0 0 50px;">Independent researcher</div>
+      </div>
+      <div class="row posts others">
+        <div class="4u" style="font-family: Oswald; font-weight: 700; padding: 10px 0 0 50px;">DOMINIKA DRĄŻYK, MA</div>
+        <div class="8u"style="text-align:left; padding: 10px 0 0 50px;">PhD student at Université catholique de Louvain</div>
+      </div>
+
+
+      <h2 style="font-weight: 800; text-align: left; margin-top: 3em;">PAST POST-DOCS</h2>
+      <div class="row posts others">
+        <div class="4u" style="font-family: Oswald; font-weight: 700;">MAGDALENA REUTER, PhD</div>
+        <div class="8u"style="text-align:left;">Assistant Professor at the Institute of Philosophy and Sociology, Pedagogical University of Kraków</div>
+      </div>
+
+
+      <h2 style="font-weight: 800; text-align: left; margin-top: 3em;">VISITING RESEARCHERS</h2>
+      <div class="row posts others">
+        <div class="4u" style="font-family: Oswald; font-weight: 700;">NATALIA ANDRIYSNIVA</div>
+        <div class="8u"style="text-align:left;"> </div>
+      </div>
+      <div class="row posts others">
+        <div class="4u" style="font-family: Oswald; font-weight: 700; padding: 10px 0 0 50px;">LENKA SAKALOSOVA</div>
+        <div class="8u"style="text-align:left; padding: 10px 0 0 50px;"> </div>
+      </div>
+      <div class="row posts others">
+        <div class="4u" style="font-family: Oswald; font-weight: 700; padding: 10px 0 0 50px;">ONDŘEJ BEČEV</div>
+        <div class="8u"style="text-align:left; padding: 10px 0 0 50px;"> </div>
+      </div>
+      <div class="row posts others">
+        <div class="4u" style="font-family: Oswald; font-weight: 700; padding: 10px 0 0 50px;">NADINE SPYCHALA</div>
+        <div class="8u"style="text-align:left; padding: 10px 0 0 50px;"> </div>
+      </div>
+
+
+      <h2 style="font-weight: 800; text-align: left; margin-top: 3em;">COLLABORATORS</h2>
+      <div class="row posts others">
+        <div class="4u" style="font-family: Oswald; font-weight: 700;">WERONIKA KAŁWAK, PhD</div>
+        <div class="8u"style="text-align:left;">Assistant Professor at the Institute of Psychology, Jagiellonian University.</div>
+      </div>
+      <div class="row posts others">
+        <div class="4u" style="font-family: Oswald; font-weight: 700; padding: 10px 0 0 50px;">MAREK PĘDZIWIATR, MA</div>
+        <div class="8u"style="text-align:left; padding: 10px 0 0 50px;"> </div>
+      </div>
+      <div class="row posts others">
+        <div class="4u" style="font-family: Oswald; font-weight: 700; padding: 10px 0 0 50px;">ONDŘEJ BEČEV</div>
+        <div class="8u"style="text-align:left; padding: 10px 0 0 50px;"> </div>
+      </div>
+
 
     </section>
 
-    <section class="wrapper style3 container special">
-
-      <h2 style="font-weight: 800">Interns</h2>
-      <div class="row posts people">
-        {% assign colab = site.categories.people | where:"category", "intern" %}
-        {% for post in colab %}
-        <div class="4u">
-          <a href="#{{post.title}}">
-            <span class="image people"><img src="{{post.image-file}}" alt=""></span>
-            <h2 class="people">{{post.name}} <br /> {{post.surname}}</h2>
-            <span class="people">{{post.excerpt}}</span>
-          </a>
-        </div>
-        {% endfor %}
-      </div>
-
-    </section>
 
     {% for post in site.categories.people %}
     <div id="{{post.title}}" class="modalDialog">
@@ -67,7 +135,7 @@ layout: default
         <div class="row posts people dialog">
           <div class="4u dialog">
             <span class="image people dialog"><img src="{{post.image-file}}" alt=""></span>
-            <h2 class="people dialog">{{post.name}}<br />{{post.surname}}</h2>
+            <h2 class="people name dialog">{{post.name}}<br />{{post.surname}}</h2>
             <div class="icons">
               {% if post.mail %}
                 <a href="mailto:{{post.mail}}" class="icon circle fa-envelope-o">
@@ -79,8 +147,8 @@ layout: default
                 </a>
               {% endif %}
 
-              {% if post.Twitter %}
-                <a href="{{post.Twitter}}" class="icon circle fa-twitter">
+              {% if post.twitter %}
+                <a href="{{post.twitter}}" class="icon circle fa-twitter">
                 </a>
               {% endif %}
 
