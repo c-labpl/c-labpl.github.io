@@ -3,6 +3,7 @@ layout: project
 title:  "Cognitive and neuronal mechanism of metacognitive awareness."
 pi: Michał Wierzchoń
 number: 2014/14/M/HS6/00911
+years: 2014-2019
 date:   2015-04-01 9:00:00
 color: rgba(239,128,34,1)
 ---

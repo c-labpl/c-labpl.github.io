@@ -3,6 +3,7 @@ layout: project
 title:  "The Dynamics of Consciousness. A Cognitive Model of Conscious Experience Formation."
 pi: Michał Wierzchoń
 number: 2012/07/E/HS6/01037
+years: 2013-2017
 date:   2013-04-01 9:00:00
 color: rgba(212,32,130,1)
 ---

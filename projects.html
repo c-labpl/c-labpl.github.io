@@ -11,11 +11,15 @@ layout: default
     <section class="wrapper style4 container">
         <div class="row news">
           {% for project in site.categories.projects %}
-          <div class="12u">
+          <div class="12u project">
             <a href="{{project.url}}">
               <div class="project-box" style="background-image: linear-gradient(white, white), linear-gradient({{project.color}}, {{project.color}});">
                 <h3>{{project.title}}</h3>
-                <p>Principal investigator: <span>{{project.pi}}</span></p>
+                <p>
+                  Principal investigator: <span>{{project.pi}}</span>
+                  <br>
+                  Years: <span>{{project.years}}</span>
+                </p>
                 {{project.excerpt}}
               </div>
             </a>

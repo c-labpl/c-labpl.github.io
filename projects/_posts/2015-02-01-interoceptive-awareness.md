@@ -4,15 +4,16 @@ title:  "Relationship between interoceptive awareness and metacognitive abilitie
 pi: Marta Łukowska
 supervisor: Michał Wierzchoń
 number: 2014/13/N/HS6/02963
+years: 2015-2017
 date: 2015-02-01 9:00:00
 color: rgba(253,236,6,1)
 ---
 
-The following project investigates the relationship between interoceptive awareness and metacognitive abilities in the context of near-thresholdvisual perception. In the set of studies an influence of getting access to cardiac activity following Type 1 perceptual decision (i.e. visual judgment) on a Type 2 perceptual decision (i.e. metacognitive judgment) would be explored. Conscious access to interoceptive (i.e. cardiac) information is expected to increase an accuracy of the metacgontive judgements about the Type 1 perceptual decision.
+The following project investigates the relationship between interoceptive awareness and metacognitive abilities in the context of near-threshold visual perception. In the set of studies an influence of getting access to cardiac activity following Type 1 perceptual decision (i.e. visual judgment) on a Type 2 perceptual decision (i.e. metacognitive judgment) would be explored. Conscious access to interoceptive (i.e. cardiac) information is expected to increase an accuracy of the metacgontive judgements about the Type 1 perceptual decision.
 
 
 **Research project objectives**
-The following project investigates the relationship between interoceptive awareness and metacognitive abilities in the context of near-thresholdvisual perception. In the set of studies an influence of getting access to cardiac activity following Type 1 perceptual decision (i.e. visual judgment) on a Type 2 perceptual decision (i.e. metacognitive judgment) would be explored. Conscious access to interoceptive (i.e. cardiac) information is expected to increase an accuracy of the metacgontive judgements about the Type 1 perceptual decision.
+The following project investigates the relationship between interoceptive awareness and metacognitive abilities in the context of near-threshold visual perception. In the set of studies an influence of getting access to cardiac activity following Type 1 perceptual decision (i.e. visual judgment) on a Type 2 perceptual decision (i.e. metacognitive judgment) would be explored. Conscious access to interoceptive (i.e. cardiac) information is expected to increase an accuracy of the metacgontive judgements about the Type 1 perceptual decision.
 
 **Research project methodology**
 The four proposed experiments would verify several hypothesis concerning: relationship between heart-rate variability following correct and incorrect Type 1 perceptual response in the near-threshold visual detection task (Study 0); an influence of cardiac feedback in an auditory form on Type 1 perceptual decision accuracy (Study 1); differences in metacognitive abilities between experienced minfulness meditators and non-meditating control group (Study 2); as well as an impact of interoceptive awareness training on metacognitive judgements abilities (Study 3).

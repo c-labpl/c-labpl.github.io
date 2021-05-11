@@ -4,6 +4,7 @@ title:  "Diagnosis of consciousness using EEG in patients with severe brain dama
 pi: Marek Binder
 number: 2013/11/B/HS6/01242
 date:   2013-11-01 9:00:00
+years: 2014-2017
 color: rgba(181,204,52,1)
 ---
 

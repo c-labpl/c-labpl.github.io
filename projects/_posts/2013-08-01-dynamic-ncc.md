@@ -3,6 +3,7 @@ layout: project
 title:  "Dynamic Neural Correlates Of Consciousness As A Function Of The Level Of Processing."
 pi: Marek Binder
 number: 2013/08/M/HS6/00004
+years: 2013-2016
 date:   2013-08-01 9:00:00
 color: rgba(239,128,34,1)
 ---

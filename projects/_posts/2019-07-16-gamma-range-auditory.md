@@ -1,0 +1,14 @@
+---
+layout: project
+title:  "Gamma range auditory steady-state eeg responses: effects of physiological and pathological brain arousal changes."
+pi: Marek Binder
+number: 2018/31/B/HS6/03920
+date:   2019-07-16 9:00:00
+years: 2019-2022
+color: rgba(181,204,52,1)
+---
+
+How the sleeping brain differs from the awake brain? What happens inside the head of a patient with a severe brain damage who appears not being able to respond to external events, apparently lost in the state we use to call a “coma”? These are the questions that have preyed on us, and that have prompted us to explore this scientific problem. We are convinced that the answers must be related to the concept of “brain arousal”.
+
+
+How the sleeping brain differs from the awake brain? What happens inside the head of a patient with a severe brain damage who appears not being able to respond to external events, apparently lost in the state we use to call a “coma”? These are the questions that have preyed on us, and that have prompted us to explore this scientific problem. We are convinced that the answers must be related to the concept of “brain arousal”. Brain arousal describes the dynamic aspect of the activity of the central nervous system and it may strongly affect our reactions to the external world. Of course, the brain is far more too complicated to be described in such a simple  way. Yet  we  are  convinced  that our  research may  tell  quite  a  few  interesting  things  about  changes happening in the brain at various level of its arousal. We are particularly interested in the way the brain reacts to a periodic acoustic stimulation. This kind of stimulation evokes a very specific response, which can be quite easily measured using electroencephalography (EEG). This is the auditory steady-state response (ASSR) –a kind of “resonance” which neurons create in response to periodic stimulation. And they respond best when we stimulate them with  40  Hz  frequency sounds. Previous research  indicated  that  there  might  be  relationship between brain arousal and brain’s  ability to  generate periodic response, but the attempts  to uncover it were unsystematic and did not provide a solid ground for making firm conclusions. In our project we are going to tackle this problem in a comprehensive way. We want to study ASSR to this periodic stimulation in a variety of arousal states –from natural fluctuations, such as those you can observe moving from a shallow to a deep sleep, to some transient changes in arousal like those occurring when we close our eyes, and to the extreme states of prolonged disorders of consciousness, which are caused by a severe brain damage (for example, after a car accident or a cardiac arrest episode). Equipped with a very precise measurement tool of EEG technique we aim to know better the  mechanism  linking fluctuating levels of brain arousal with the brain’s ability to “resonate” with periodic auditory stimulation.
