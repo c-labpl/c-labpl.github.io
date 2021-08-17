@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Apply for a Post-doc position!"
+title:  "Post-doc position"
 date:   2021-08-17 1:00:00
 image: /images/ncn_logo.png
 ---
