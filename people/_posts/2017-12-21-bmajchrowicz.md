@@ -6,7 +6,7 @@ surname: Majchrowicz
 date:   2017-12-21 09:00:00
 categories: people
 image-file: /images/people/bmajchrowicz.png
-category: phd
+category: alumni
 mail: majchrowicz.b@gmail.com
 website:
 twitter:
