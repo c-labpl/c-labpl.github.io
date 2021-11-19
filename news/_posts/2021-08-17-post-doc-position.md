@@ -24,7 +24,7 @@ The starting date is between November and December 2021 (the earliest possible d
 Selected candidates may be invited to an online interview.  
 For additional information, please contact **dr Marta Siedlecka** (marta.siedlecka@uj.edu.pl).
 
-The official advert containing all required documents is [HERE](https://praca.bip.uj.edu.pl/documents/145868730/149067924/eng+Konkurs+na+stanowisko+adiunkta+bad+WF.pdf/6b005e63-8a80-429b-a428-22f998374e66). 
+The official advert containing all required documents is [HERE](https://praca.bip.uj.edu.pl/documents/145868730/148475948/Adiunkta+bad+MS+WF+2+eng.pdf/b3ea2f50-82c0-46a4-840e-3414db097f73). 
 
 
 
