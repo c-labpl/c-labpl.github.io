@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+
+<article id="main">
+    <header class="special container">
+        <span class="icon fa-connectdevelop"></span>
+        <h2>CONREFENCES</h2>
+    </header>
+    <section class="wrapper style4 container">
+        <div class="row news">
+
+          <div class="12u project">
+            <a href="https://c-lab.pl/correlatesOFconsciousness.html">
+              <div class="4u">
+                <img href="/images/Lanckorona.jpg">
+              </div>
+              <div class="project-box">
+                <h3>C-Lab Retreat 2021</h3>
+                <p>
+                  Focus: <span>Cognitive and Neural Correlates of Consciousness</span>
+                  <br>
+                  Date: <span>21 - 25.10.2021</span>
+                  <br>
+                  Place: <span>Lanckorona, Poland</span>
+                </p>
+              </div>
+            </a>
+          </div>
+
+          <div class="12u project">
+            <a href="{{project.url}}">
+              <div class="project-box" style="background-image: linear-gradient(white, white), linear-gradient({{project.color}}, {{project.color}});">
+                <h3>{{project.title}}</h3>
+                <p>
+                  Principal investigator: <span>{{project.pi}}</span>
+                  <br>
+                  Years: <span>{{project.years}}</span>
+                </p>
+                {{project.excerpt}}
+              </div>
+            </a>
+          </div>
+
+          <div class="12u project">
+            <a href="{{project.url}}">
+              <div class="project-box" style="background-image: linear-gradient(white, white), linear-gradient({{project.color}}, {{project.color}});">
+                <h3>{{project.title}}</h3>
+                <p>
+                  Principal investigator: <span>{{project.pi}}</span>
+                  <br>
+                  Years: <span>{{project.years}}</span>
+                </p>
+                {{project.excerpt}}
+              </div>
+            </a>
+          </div>
+
+        </div>
+    </section>
+
+</article>
