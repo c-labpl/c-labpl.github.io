@@ -1,0 +1,17 @@
+---
+layout: project
+title:  "Integration throughout the perceptual hierarchy - from psychophysics to EEG and MRI."
+pi: Renate Rutiku
+number: 
+date:   2022-03-01 1:00:00
+years: 2022-2025
+color: rgba(129,204,236,1)
+---
+
+Close your eyes for a moment and open them again. Do You have to make a conscious effort to start seeing again, or does the world simply reappear in front of You without any noticeable effort? Perception of our surrounding environment seems so simple and easy that we often do not even wonder how our brain produces this effect. But in reality, or perception relies on an avalanche of neural computations and we still know only very little about how these processes really work. The aim of this project is to gain a better understanding of a subset of the tasks that the brain has to perform in order to achieve perception, namely perceptual integration. The information that arrives into our brain through our senses is like sand. It has no structure and no meaning. The brain has to integrate different parts of this information in a correct way, similar to building a sandcastle. We want to understand better, which parts of the brain are working together, and how, in order to integrate information correctly.
+
+
+We will test one hundred people who volunteer to take part in our experiment. The participants have to look at special displays and sometimes report what they are seeing and/or hearing. This behavioral setting allows us to deconstruct the process of perceptual integration into its component steps and study each component in relative isolation. In addition to recording participants' behavioral responses, we will also capture their brain activity while they are solving the tasks. In one session we record electroencephalography and in a separate session, we perform functional magnetic resonance imaging. Both of these brain recordings allow us to draw inferences about which interactions in the brain are crucial for integrating sensory information into coherent percepts. Specifically, we want to know whether it is primarily interactions within the cortex (the thin outer layer of the brain) that are important for perceptual integration, or whether interaction loops with the thalamus (a very old part of the brain that is located in the center of your head) are also crucial. The latter possibility has been subject to theoretical speculation for a long time, but empirical evidence for it has only recently started to accumulate. If the thalamus indeed plays a key role in some (or all) stages of perceptual integration, we would be among the first to directly demonstrate its contribution relative to cortical processing in humans.
+
+
+The above-described line of research is part of basic science and we attempt it in the hopes of making groundbreaking discoveries about how the brain works. Any direct practical benefits for society are often difficult to gauge in basic science, but it is fair to say that a thorough understanding of the neural underpinnings of human perception will have groundbreaking consequences for many aspects of our lives. For example, it will help us to provide better treatments for people with sensory disabilities. It will also spur clinical research on disorders such as autism or schizophrenia because these disorders are often accompanied by pathological deviations in perception. Furthermore, it will have a big impact on the field of artificial intelligence because it will aid in the development of more generalizable and adaptable computer vision.

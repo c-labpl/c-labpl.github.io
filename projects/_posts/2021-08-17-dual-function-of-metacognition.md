@@ -2,7 +2,7 @@
 layout: project
 title:  "The Dual Function Of Metacognition: The Interplay Between Regulation And Monitoring."
 pi: Marta Siedlecka
-number: 
+number: 2020/39/B/HS6/02212
 date:   2021-08-17 1:00:00
 years: 2021-2025
 color: rgba(239,128,34,1)
