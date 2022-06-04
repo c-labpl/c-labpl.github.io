@@ -7,10 +7,10 @@ image: /images/talk.png
 
 On Monday 7th of June we will have a C-Lab seminar with dr Tomasz Górski.
 
-**Title**
+**Title**  
 From the dynamics of neural circuits to the states of consciousness.
 
-**Abstract**
+**Abstract**  
 The key questions addressed:  
 How CAdEx neuronal model with conductance-based adaptation works? [1]  
 How to model slow-wave neural dynamics occuring in a deep sleep or in anesthesia with neuronal models with adaptation? [2,3]  
