@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "C-lab seminar - dr Marta Siedlecka"
+title:  "C-lab seminar - dr Tomasz Górski"
 date:   2022-06-01 9:00:00
 image: /images/talk.png
 ---
