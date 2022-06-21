@@ -1480,7 +1480,7 @@
 #conf-info-box{
   display: flex;
   width: 100%;
-  margin-bottom: 2em;
+  /* margin-bottom: 2em; */
 }
 
 #conf-info-sub {
@@ -1492,7 +1492,7 @@
 }
 
 #conf-info-con {
-  display: inline-flex;
+  /* display: inline-flex; */
   margin-left: 5%;
   width: 65%;
 }
