@@ -1483,6 +1483,10 @@
   /* margin-bottom: 2em; */
 }
 
+.narrow {
+	padding-top: 10px !important;
+}
+
 #conf-info-sub {
   font-weight: 700;
   display: inline-flex;
