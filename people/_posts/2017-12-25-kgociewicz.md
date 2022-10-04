@@ -6,7 +6,7 @@ surname: Gociewicz
 date:   2017-12-25 09:00:00
 categories: people
 image-file: /images/people/kgociewicz.jpeg
-category: phd
+category: 
 mail: k.gociewicz@gmail.com
 website:
 twitter:
