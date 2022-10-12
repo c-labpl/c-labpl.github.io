@@ -3,7 +3,7 @@ layout: post
 title:  "Michał Remiszewski"
 name: "Michał "
 surname: Remiszewski
-date:
+date: 2017-12-13 09:00:00
 categories: people
 image-file: /images/people/mremiszewski.jpg
 category: phd
