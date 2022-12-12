@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "C-lab seminar - Daniel Gut"
-date:   2022-11-20 9:00:00
+title:  "C-lab seminar - Dunja Paunovic"
+date:   2022-12-12 9:00:00
 image: /images/talk.png
 ---
 
