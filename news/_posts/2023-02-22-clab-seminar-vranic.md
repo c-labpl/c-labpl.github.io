@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "C-lab seminar - Andrea Vranić"
-date:   2023-02-21 9:00:00
+date:   2023-02-21 1:00:00
 image: /images/talk.png
 ---
 
-On Wednesday 22nd of February we will have a C-Lab seminar with Andrea Vranić from the Department of Psychology, University of Zagreb.
+On Wednesday 22nd of February in room 1.01 at 3 p.m. we will have a C-Lab seminar with Andrea Vranić from the Department of Psychology, University of Zagreb.
 
 **Title**  
 So far, so good: Multidimensionality of cognitive enhancement.
