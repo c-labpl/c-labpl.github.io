@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "C-lab seminar - Andrea Vranić"
-date:   2023-02-21 1:00:00
+date:   2023-02-20 1:00:00
 image: /images/talk.png
 ---
 
