@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "C-lab seminar - Andrea Vranić"
+title:  "C-lab seminar - Daniel Bor"
 date:   2023-11-23 1:00:00
 image: /images/talk.png
 ---
