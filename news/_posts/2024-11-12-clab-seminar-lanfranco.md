@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "C-lab seminar - Renzo Lanfranco"
-date:   2024-11-12 1:00:00
+date:   2024-11-06 1:00:00
 image: /images/talk.png
 ---
 
