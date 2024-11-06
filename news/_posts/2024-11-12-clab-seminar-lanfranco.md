@@ -5,8 +5,8 @@ date:   2024-11-06 1:00:00
 image: /images/talk.png
 ---
 
-On Friday, the 12th of November at 10:00 we will have a C-Lab seminar with [Dr Renzo Lanfranco](https://www.renzolanfranco.com/) from Karolinska Institutet, Sweden.
-The meeting will take place in the Institute of Psychology on Ingardena Street 6 in the room 2.15.
+On Tuesday, the 12th of November at 10:00 we will have a C-Lab seminar with [Dr Renzo Lanfranco](https://www.renzolanfranco.com/) from Karolinska Institutet, Sweden.
+The meeting will take place in the Institute of Psychology on Ingardena Street 6, room 2.15.
 
 **Title**  
 Teasing apart perceptual processing and conscious access in face processing and body ownership using psychophysics, computational modelling, multivariate decoding, and information-theory metrics
