@@ -1502,8 +1502,9 @@
 }
 
 #conf-text {
-  text-align: center;
+  text-align: justify;
   float: none;
+  margin: 0 0 2em 0;
 }
 
 /* NEWS POST */
